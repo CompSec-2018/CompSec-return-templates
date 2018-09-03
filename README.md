@@ -1,3 +1,10 @@
+NOTE: This is brief copy of template repository. 
+
+#### Don't fork this directly from CompSec-2018 organization!
+
+**Follow instructions [here](https://github.com/CompSec-2018/CompSec#instructions) to get this repository!**
+Once you have done it, you can remove this text in your own repository.
+
 # Your place for returning lab exercises/assignmets and final coursework
 
 Student name:
